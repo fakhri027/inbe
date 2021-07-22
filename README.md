@@ -1,1 +1,1 @@
-# aplikasi penampil list beasiswa serta menampilkan keterangannya apakah untuk SMA,SMP,MAHASISWA,UMUM atau yang lainnya. Aplikasi ini akan menyediakan juga alamat penyedia beasiswa
+# Aplikasi penampil list beasiswa serta menampilkan keterangan atau katergorinya apakah untuk SMA,SMP,MAHASISWA,UMUM atau yang lainnya. Aplikasi ini akan menyediakan juga alamat penyedia beasiswa. Dalam list beasiswa terdapat juga fitur search agar dapat memudahkan pengguna dalam menemukan nama beasiswa atau dengan kategori beasiswa tersebut  
